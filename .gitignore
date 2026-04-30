@@ -1,0 +1,6 @@
+*.pdf
+yogavasishtha_ocr/
+Project1/
+__pycache__/
+*.pyc
+.DS_Store
